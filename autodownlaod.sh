@@ -1,10 +1,10 @@
 sed -i 's@^\(deb.*stable main\)$@#\1\ndeb https://mirrors.tuna.tsinghua.edu.cn/termux/termux-packages-24 stable main@' $PREFIX/etc/apt/sources.list;
 apt update;
-apt upgrade;
+apt upgrade -y;
 mkdir ~/.config;
 pkg install nodejs -y;
 pkg install node -y;
 pkg install python3 clang tree cmake vim neovim git -y;
 apt install tur-repo -y;
 apt install code-server -y;
-vim .config/code-server/config.yaml;
+vim ~/.config/code-server/config.yaml;
