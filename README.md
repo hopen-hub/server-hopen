@@ -15,13 +15,13 @@ it also solve the problem of arm to Andriod system matching issue and multiple d
 
 Here's the preview of the script
 
-![preview](https://cdn.luogu.com.cn/upload/image_hosting/1ickgpqe.png)
+![preview](https://github.com/hopen-hub/code-server-/blob/main/Screenshot_20240323-124753.png)
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/1kie78iu.png)
+![](https://github.com/hopen-hub/code-server-/blob/main/Screenshot_20240323-124907.png)
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/1jc4x561.png)
+![](https://github.com/hopen-hub/code-server-/blob/main/Screenshot_20240323-124916.png)
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/vci7bs0c.png)
+![](https://github.com/hopen-hub/code-server-/blob/main/Screenshot_20240323-172323.png)
 
 ## download steps
 *******************************
